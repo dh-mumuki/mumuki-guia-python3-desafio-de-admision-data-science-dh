@@ -1,0 +1,5 @@
+Copyright Equipo académico Data Science and contributors
+
+This content consists of voluntary contributions made by many
+individuals. For exact contribution history, see its revision history
+available at https://github.com/dh-mumuki/mumuki-guia-python3-desafio-de-admision-data-science-dh and the AUTHORS.txt file.
