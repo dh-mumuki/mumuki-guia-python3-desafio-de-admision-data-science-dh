@@ -1,0 +1,1 @@
+Escribí una función que tome una lista y devuelva `True` si hay dos números iguales, y `False` si son todos distintos. 

@@ -1,0 +1,1 @@
+Escribí una función que reciba una lista y concatene los elementos de la lista en un único string.

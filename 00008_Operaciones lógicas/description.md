@@ -1,0 +1,1 @@
+Escribí una función que reciba un número y devuelva `True` si el número se encuentra entre 100 y 1000 (incluidos), y `False` en caso contrario.

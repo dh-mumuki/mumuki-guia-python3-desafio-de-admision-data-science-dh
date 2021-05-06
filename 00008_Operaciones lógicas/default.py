@@ -1,0 +1,1 @@
+def near_thousand(

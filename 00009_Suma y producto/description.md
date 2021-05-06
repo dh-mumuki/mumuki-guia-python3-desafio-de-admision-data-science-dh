@@ -1,0 +1,1 @@
+Escribí una función que calcule la suma de tres números dados, y si los tres números son iguales, que devuelva el triple de su suma. 

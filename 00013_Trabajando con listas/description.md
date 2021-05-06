@@ -1,0 +1,1 @@
+Escribí una función que reciba una lista de números y devuelva los pares de esa lista. Si alguno de los números es el 248, la lista debe concluir sin incluirlo.
