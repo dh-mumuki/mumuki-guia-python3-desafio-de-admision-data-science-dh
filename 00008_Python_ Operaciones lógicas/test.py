@@ -29,9 +29,9 @@ class TestFixtures(unittest.TestCase):
   
   def test_Numero_de_argumentos(self):
     try:
-      with self.assertRaises(TypeError):
+      with self.assertRaises(TypeError,"test 0 arg"):
         check()
-      with self.assertRaises(TypeError):
+      with self.assertRaises(TypeError, "test 2 args"):
         check(1, 2)
     except:
       raise ValueError("Revisar el numero de argumentos en la función.")
