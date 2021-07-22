@@ -1,5 +1,8 @@
 class TestFixtures(unittest.TestCase):
   
+  def test_Si_99_es_falso(self):
+      self.assertFalse(check(99), "check(99) debe devolver False")
+  
   def test_1001(self):
       self.assertFalse(check(1001), "El 1001 NO debe pasar.")
 
